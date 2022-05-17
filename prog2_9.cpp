@@ -1,23 +1,23 @@
-/* Autor: Andriks Imanol Ruiz M醨tinez, Realizado: 07/04/2022
-Escuela: Universidad del Valle de M閤ico Campus Villahermosa 
-Materia: Programaci髇 Estructurada
+/* Autor: Andriks Imanol Ruiz M谩rtinez, Realizado: 07/04/2022
+Escuela: Universidad del Valle de M茅xico Campus Villahermosa 
+Materia: Programaci贸n Estructurada
 Ciclo: 01/2022
 
-Este es un programa en Lenguaje C de la materia de Programaci髇 Estructurada<br>
+Este es un programa en Lenguaje C de la materia de Programaci贸n Estructurada<br>
 Muestra el uso de:
  
-	-Variables enteras, flotantes y en cadena
-	-printf para mostrar mensajes y variables
+    -Variables enteras, flotantes y en cadena
+    -printf para mostrar mensajes y variables
     -fgets
     -scanf
-    -El uso de include para las librer韆s
-    -Librer韆s de la funci髇 string.h
+    -El uso de include para las librer铆as
+    -Librer铆as de la funci贸n string.h
     -Uso de condicionales
-    -arhcivos en cpp y tipo Header
+    -Archivos en cpp y tipo Header
     -Ciclos
     -fflush
     -Funciones
-    -Comentarios para la documentaci髇 interna del programa
+    -Comentarios para la documentaci贸n interna del programa
 */
 #include<stdio.h>
 #include"milibreria.h"
