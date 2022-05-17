@@ -32,6 +32,6 @@ Se trata de un programa que guarda los datos de un alumno por medio de una estru
 <li>Promedio</li>
 <li>faltas</li>
 </ul>
-También se creará un archivo cpp en donde contendrá las funciones y un arhcivo tipo Header donde se encontrarán los prototipos.
+También se creará un archivo cpp en donde contendrá las funciones y un archivo tipo Header donde se encontrarán los prototipos.
 <br>
 </p>
